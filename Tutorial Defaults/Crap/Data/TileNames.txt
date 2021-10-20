@@ -1,0 +1,47 @@
+Abandoned Room,True,True,False,omen,4,f-t-t-t,f-f-f-f,false
+Attic,False,False,True,event,1,f-t-t-t,t-f-f-f,exiting
+Balcony,False,False,True,omen,2,f-f-t-f,t-f-t-f,false
+Ballroom,False,True,False,event,4,f-t-t-t,f-f-f-f,false
+Basement Landing,False,False,False,None,4,f-t-t-t,f-f-f-f,false
+Bedroom,False,False,True,event,2,f-f-t-f,f-t-f-t,false
+Bloody Room,False,True,True,item,4,f-t-t-t,f-f-f-f,false
+Catacombs,True,False,False,omen,2,f-f-t-f,t-f-t-f,cross
+Chapel,False,True,True,event,1,f-t-t-t,f-f-t-f,end
+Charred Room,False,True,True,omen,4,f-t-t-t,f-f-f-f,false
+Chasm,True,False,False,None,2,f-f-t-f,f-t-f-t,cross
+Coal Chute,False,True,False,None,1,f-t-t-t,f-f-t-f,now
+Collapsed Room,False,True,True,None,4,f-t-t-t,f-f-f-f,now
+Conservatory,False,True,True,event,1,f-t-t-t,f-f-t-f,false
+Creaky Hallway,True,True,True,None,4,f-t-t-t,f-f-f,false
+Crypt,True,False,False,event,1,f-t-t-t,f-f-t-f,end
+Dining Room,False,True,False,omen,2,f-t-f-t,f-f-t-t,false
+Dusty Hallway,True,True,True,None,4,f-t-f-t,f-f-t-t,false
+Entrance Hall,False,False,False,None,3,f-t-t-t,f-f-f,false
+Foyer,False,False,False,None,4,f-t-t-t,f-f-f,false
+Furnace Room,True,False,False,omen,3,f-t-t-t,t-t-t-f,true
+Gallery,False,False,True,omen,2,f-f-t-f,t-f-t-f,choose
+Game Room,True,True,True,event,3,f-t-t-t,t-f-t-t,false
+Gardens,False,True,False,event,2,f-f-t-f,t-f-t-f,false
+Grand Staircase,False,False,False,None,2,f-t-t-t,t-f-t-f,false
+Graveyard,False,True,False,event,1,f-t-f-t,t-f-f-f,exit
+Gymnasium,True,False,True,omen,2,f-t-f-t,t-f-f-t,end
+Junk Room,True,True,True,omen,4,f-t-f-t,f-f-t-t,exit
+Kitchen,True,True,False,omen,2,f-t-f-t,f-f-t-t,false
+Larder,True,False,False,item,2,f-f-t-f,t-f-t-f,end
+Library,False,True,True,event,2,f-t-f-t,t-t-f-f,end
+Master Bedroom,False,False,True,omen,2,f-t-f-t,f-t-t-f,false
+Mystic Elevator,True,True,True,None,1,f-t-f-t,f-f-t-f,choose
+Operating Laboratory,True,False,True,event,2,f-t-f-t,t-f-f-t,false
+Organ Room,True,True,True,event,2,f-t-f-t,t-t-f-f,false
+Patio,False,True,False,event,3,f-t-t-t,t-t-t-f,false
+Pentagram Chamber,True,False,False,omen,1,f-t-t-t,f-f-f-t,exit
+Research Laboratory,True,False,True,event,2,f-f-t-f,t-f-t-f,false
+Servants' Quarters,True,False,True,omen,4,f-t-t-t,f-f-f-f-f,false
+Stairs From Basement,True,False,False,None,1,f-f-t-f,t-f-f-f,false
+Statuary Corridor,True,True,True,event,2,f-f-t-f,f-t-f-t,false
+Storeroom,True,False,True,item,1,f-t-t-t,f-f-t-f,false
+Tower,False,False,True,event,2,f-f-t-f,f-t-f-t,cross
+Underground Lake,True,False,False,event,2,f-t-f-t,f-f-t-t,false
+Upper Landing,False,False,False,None,4,f-t-t-t,f-f-f-f,false
+Vault,True,False,True,event,1,f-t-t-t,f-f-t-f,choose
+Wine Cellar,True,False,False,item,2,f-f-t-f,t-f-t-f,false
